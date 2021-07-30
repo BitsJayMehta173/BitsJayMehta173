@@ -11,8 +11,8 @@
 - 🌱 I’m an learning and exploring in the field of Web Development and Competitive Programing.
 - 📄 I love taking part in hackathons.
 - 📫 How to reach me: [facebook](https://www.facebook.com/jay.mehta.7543653/) [LinkedIn](https://www.linkedin.com/in/jay-mehta-670459178/)
--🤼 I’m looking to collaborate with other developers.
--😄 Pronouns: He/Him
+- 🤼 I’m looking to collaborate with other developers.
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Play around with melodies and Produce Music Sometimes.
 
 
