@@ -7,7 +7,7 @@
 </div>
 
 
-- 🔭 I’m currently pursuing my 1st year Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/)
+- 🔭 I’m currently pursuing my Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/)
 - 🌱 I’m an learning and exploring in the field of Web Development and Competitive Programing.
 - 📄 I love taking part in hackathons.
 - 📫 How to reach me: [facebook](https://www.facebook.com/jay.mehta.7543653/) [LinkedIn](https://www.linkedin.com/in/jay-mehta-670459178/)
