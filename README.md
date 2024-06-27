@@ -45,7 +45,7 @@
 
 
 <div align="center" width=80%>
-<code><a title="Gmail" href="jaymehta20_ug@cse.nits.ac.in"><img height="40" src="./img/gmail.svg"></a></code>&emsp;&emsp;
+<code><a title="Gmail" href="jaymehta20020605@gmail.com"><img height="40" src="./img/gmail.svg"></a></code>&emsp;&emsp;
 <code><a title="LinkedIn" href="https://www.linkedin.com/in/jay-mehta-670459178/"><img  height="40" src="./img/linkedin.svg"></a></code>&emsp;&emsp;
 <code><a title="Facebook" href="https://www.facebook.com/jay.mehta.7543653/"><img  height="40" src="./img/facebook.svg"></a></code>&emsp;&emsp;
 </div>
