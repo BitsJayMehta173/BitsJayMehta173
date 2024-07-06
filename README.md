@@ -8,12 +8,11 @@
 
 
 - 🔭 I’m currently pursuing my Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/)
-- 🌱 I’m an learning and exploring in the field of Web Development and Competitive Programing.
-- 📄 I love taking part in hackathons.
-- 📫 How to reach me: [facebook](https://www.facebook.com/jay.mehta.7543653/) [LinkedIn](https://www.linkedin.com/in/jay-mehta-670459178/)
-- 🤼 I’m looking to collaborate with other developers.
+- 🌱 I’m an learning and exploring EVERYTHING.
+- 📄 I love working on any problems around me be it of any field and connect it with development.
+- 📫 How to reach me: [facebook](https://www.facebook.com/profile.php?id=100094880190119&mibextid=ZbWKwL) [LinkedIn](https://www.linkedin.com/in/jay-mehta-670459178/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Play around with melodies and Produce Music Sometimes.
+- ⚡ Fun fact: I Play around with melodies and Produce Music Sometimes. Writing is my passion for single hour a day.
 
 
 ## LEARNING:
@@ -47,7 +46,7 @@
 <div align="center" width=80%>
 <code><a title="Gmail" href="jaymehta20020605@gmail.com"><img height="40" src="./img/gmail.svg"></a></code>&emsp;&emsp;
 <code><a title="LinkedIn" href="https://www.linkedin.com/in/jay-mehta-670459178/"><img  height="40" src="./img/linkedin.svg"></a></code>&emsp;&emsp;
-<code><a title="Facebook" href="https://www.facebook.com/jay.mehta.7543653/"><img  height="40" src="./img/facebook.svg"></a></code>&emsp;&emsp;
+<code><a title="Facebook" href="https://www.facebook.com/profile.php?id=100094880190119&mibextid=ZbWKwL"><img  height="40" src="./img/facebook.svg"></a></code>&emsp;&emsp;
 </div>
 
 ************
