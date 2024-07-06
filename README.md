@@ -8,11 +8,12 @@
 
 
 - 🔭 I’m currently pursuing my Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/)
-- 🌱 I’m an learning and exploring EVERYTHING.
+- 🌱 I’m am learning and exploring EVERYTHING.
 - 📄 I love working on any problems around me be it of any field and connect it with development.
 - 📫 How to reach me: [facebook](https://www.facebook.com/profile.php?id=100094880190119&mibextid=ZbWKwL) [LinkedIn](https://www.linkedin.com/in/jay-mehta-670459178/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Play around with melodies and Produce Music Sometimes. Writing is my passion for single hour a day.
+- 🪦 I kindof believe in matrix as i take advantage of it meaning Logic comes from Past and Assumption are sent from Future. 
 
 
 ## LEARNING:
